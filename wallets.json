@@ -1,0 +1,12 @@
+{
+  "wallets": [
+    {
+      "name": "Web5 Identity Wallet",
+      "url": "https://tbd54566975.github.io/idv/"
+    },
+    {
+      "name": "DidPay",
+      "url": "didpay://idv"
+    }
+  ]
+}
